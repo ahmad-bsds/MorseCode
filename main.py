@@ -1,6 +1,5 @@
 # STRING TO MORSE CODE.
 
-
 # Making a dict to store mose code, caracters encoding.
 morse_code_dict = {
     'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.', 'G': '--.', 'H': '....',
